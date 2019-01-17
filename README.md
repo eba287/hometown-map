@@ -1,2 +1,2 @@
 # hometown-map
-Syracuse, NY
+A map of Syracuse, NY. 
